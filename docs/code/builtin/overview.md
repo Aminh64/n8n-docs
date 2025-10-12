@@ -1,4 +1,4 @@
----
+N8N_HOST:N8N_PORT/N8N_PATH/api/v<api-version-number>/credentials/schema/{credentialTypeName}--
 description: n8n's built-in custom methods and variables.
 contentType: overview
 ---
